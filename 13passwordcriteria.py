@@ -5,9 +5,9 @@
 #                  # we will check password length and first character
 
 
-# # re.search() method searches a string for a specified value, and returns the position of the match
-# # Check karo ki given pattern string ke andar kahin bhi match karta hai ya nahi.
-# # If it finds a match, it returns a Match object, otherwise it returns None.
+#  re.search() method searches a string for a specified value, and returns the position of the match
+#  Check karo ki given pattern string ke andar kahin bhi match karta hai ya nahi.
+#  If it finds a match, it returns a Match object, otherwise it returns None.
 
 
 # while True: # infinite loop
